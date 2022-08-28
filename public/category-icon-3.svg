@@ -1,0 +1,15 @@
+<svg id="Component_1_2" data-name="Component 1 – 2" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="35" height="35" viewBox="0 0 35 35">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Rectangle_885" data-name="Rectangle 885" width="35" height="35" fill="#f33"/>
+    </clipPath>
+  </defs>
+  <g id="Mask_Group_18" data-name="Mask Group 18" clip-path="url(#clip-path)">
+    <g id="Mask_Group_20" data-name="Mask Group 20" clip-path="url(#clip-path)">
+      <g id="casual-t-shirt-" transform="translate(0 2.276)">
+        <path id="Path_2733" data-name="Path 2733" d="M11.412,4.006a3.46,3.46,0,0,0,3.3-2.389,12.745,12.745,0,0,1-3.3.4,12.744,12.744,0,0,1-3.3-.4A3.46,3.46,0,0,0,11.412,4.006Z" transform="translate(6.088 -1.063)" fill="#7b52ab"/>
+        <path id="Path_2734" data-name="Path 2734" d="M34.956,5.993a.8.8,0,0,0-.417-.459l-6.673-3.08a32.27,32.27,0,0,0-4.326-1.138.8.8,0,0,0-.153-.015.784.784,0,0,0-.766.615,5.248,5.248,0,0,1-10.245,0,.785.785,0,0,0-.766-.615.8.8,0,0,0-.153.015A32.393,32.393,0,0,0,7.131,2.454L.461,5.534a.785.785,0,0,0-.416.459.778.778,0,0,0,.042.618l2.9,5.717a.786.786,0,0,0,.93.4l3.217-.954V30.957a.793.793,0,0,0,.792.791H27.077a.792.792,0,0,0,.79-.791V11.775l3.22.954a.786.786,0,0,0,.93-.4l2.9-5.717A.794.794,0,0,0,34.956,5.993Z" transform="translate(0 -1.301)" fill="#7b52ab"/>
+      </g>
+    </g>
+  </g>
+</svg>
