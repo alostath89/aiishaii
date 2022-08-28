@@ -10,9 +10,13 @@ import EnterOfferModal from '../components/EnterOfferModal'
 
 const productDetails = () => {
     
+    // eslint-disable-next-line react-hooks/rules-of-hooks
     const [saveProduct, setsaveProduct] = useState(false);
+    // eslint-disable-next-line react-hooks/rules-of-hooks
     const [SendReportModalVal, setSendReportModalVal] = useState(false);
+    // eslint-disable-next-line react-hooks/rules-of-hooks
     const [SendMessageModalVal, setSendMessageModalVal] = useState(false);
+    // eslint-disable-next-line react-hooks/rules-of-hooks
     const [EnterOfferModalVal, setEnterOfferModalVal] = useState(false);
     
     const openSendReportModal = (() => {
@@ -50,6 +54,7 @@ const productDetails = () => {
         {id:"7", img: "/product/7.jpeg"},
     ]
 
+    // eslint-disable-next-line react-hooks/rules-of-hooks
     const [gallaryCoverImg, setGallaryCoverImg] = useState(productgallaryArray[0].img)
 
     const removeClassActive = () => {
